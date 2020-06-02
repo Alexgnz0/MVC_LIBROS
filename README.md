@@ -1,4 +1,4 @@
-# api_muni
+#MVC_MCC
 Desarrollar un MVC con Laravel 6.0 con las siguientes caracteristicas:
 
 1. Login y register con cuenta de email y nombre de usuario.
